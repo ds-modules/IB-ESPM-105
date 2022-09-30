@@ -4,7 +4,8 @@
 
 Examples of biodiversity data in action
 
-[Latest Notebook 01](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=IB-ESPM-105&branch=master&path=01-BNHM_biodiversityExample-2022.ipynb)
+[Latest Notebook 01](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FIB-ESPM-105&urlpath=tree%2FIB-ESPM-105%2FBNHM_biodiversityExample-2022.ipynb&branch=master)
+__Requires CalNet ID__
 
 Fall 2019
 ---------
