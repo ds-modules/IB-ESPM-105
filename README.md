@@ -1,11 +1,17 @@
-# jupyter
-Jupyter Notebook examples of biodiversity data in action
+# Jupyter notebooks for BNHM
 
+## IB-ESPM-105
 
+Examples of biodiversity data in action
 
-[IB105 - Notebook #1 - 2017 on UC Berkeley Data Hub](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=IB-ESPM-105&branch=master&path=01-BNHM-Data.ipynb)
+[Latest Notebook 01](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=IB-ESPM-105&branch=master&path=01-BNHM_biodiversityExample-2022.ipynb)
 
- - 01-BNHM-Data.ipynb cloned and renamed here IB105-2017-BNHM.ipynb
+Fall 2019
+---------
+[Notebook 01](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=IB-ESPM-105&branch=master&path=fall2019/notebook1.ipynb)
+
+[Notebook 02](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=IB-ESPM-105&branch=master&path=fall2019/notebook2.ipynb)
+
  
  For posting for class access: https://github.com/ds-modules/IB-ESPM-105
  
