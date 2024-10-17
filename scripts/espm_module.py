@@ -42,7 +42,7 @@ def assign_colors(records_df, col_name):
 
     for k in color_dict.keys():
         to_render += add_template.replace(
-            'COLLECTION', k).replace(
+            'COLLECTION', str(k).replace(
             'HEX', color_dict[k])
 
     to_render += '</tbody>'
